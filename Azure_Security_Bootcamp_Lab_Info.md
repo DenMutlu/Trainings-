@@ -7,7 +7,7 @@ This document provides the information you need to create your account and acces
 
 ---
 
-## 🧩 XtremeLabs Account Setup (Summary)
+## XtremeLabs Account Setup (Summary)
 
 To access your virtual labs, each participant must create an account and redeem their unique course code.
 
@@ -29,12 +29,12 @@ To access your virtual labs, each participant must create an account and redeem 
 - Wait for it to initialize (usually under 2 minutes).
 - Once ready, begin following the lab manual inside the portal.
 
-💡 *Tip:* If your lab disconnects, you can use **Reconnect** from the VM Operations menu.  
+ *Tip:* If your lab disconnects, you can use **Reconnect** from the VM Operations menu.  
 If you encounter any issues, contact **your Trainer** or use the **Chat Support** in the bottom-right corner.
 
 ---
 
-## 👩‍💻 Bootcamp Participants & Lab Codes
+# 💻 AZ-104 – Azure Administrator Labs
 
 | Participant Name        | XtremeLabs Code   |
 |--------------------------|------------------|
@@ -49,14 +49,29 @@ If you encounter any issues, contact **your Trainer** or use the **Chat Support*
 
 ---
 
-## 🧠 Notes
+## 🔐 SC-900 – Security, Compliance, and Identity Fundamentals Labs
+
+| Participant Name        | XtremeLabs Code   |
+|--------------------------|------------------|
+| Natalia Tretiakova       | MOC-PXZ3G54AJ    |
+| Wolfgang Schneider       | MOC-NB8ZKPRZG    |
+| Herdlitschka Christoph   | MOC-BN8K8ZQP6    |
+| Darko Draskovic          | MOC-ELT478WQ4    |
+| Markus Malits            | MOC-3WPGRR3TP    |
+| Karl Baldrian            | MOC-LSN8RKXRA    |
+| Zoran                    | MOC-GDZAM28YZ    |
+| Reserve                  | MOC-ZUE9D4WZD    |
+
+---
+
+##  Notes
 - These codes are **personal and single-use**, do not share them.
 - Each code grants access to the lab environment for the duration of the course.
 - Make sure to **save your progress** before ending your lab if that option is available.
 
 ---
 
-📘 **Support**
+ **Support**
 - **Email:** [support@xtremelabs.io](mailto:support@xtremelabs.io)  
 - **Platform:** [https://labs.xtremelabs.io](https://labs.xtremelabs.io)
 
