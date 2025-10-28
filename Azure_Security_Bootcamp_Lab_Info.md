@@ -2,7 +2,7 @@
 
 ## 🧭 Overview
 
-Welcome to the **Azure & Security Bootcamp** labs, hosted on the **XtremeLabs platform**.  
+Welcome to the **Azure & Security Bootcamp** labs, hosted on the ** SPCS XtremeLabs platform**.  
 This document provides the information you need to create your account and access your lab environments.
 
 ---
@@ -30,7 +30,7 @@ To access your virtual labs, each participant must create an account and redeem 
 - Once ready, begin following the lab manual inside the portal.
 
 💡 *Tip:* If your lab disconnects, you can use **Reconnect** from the VM Operations menu.  
-If you encounter any issues, contact **support@xtremelabs.io** or use the **Chat Support** in the bottom-right corner.
+If you encounter any issues, contact **your Trainer** or use the **Chat Support** in the bottom-right corner.
 
 ---
 
@@ -50,7 +50,7 @@ If you encounter any issues, contact **support@xtremelabs.io** or use the **Chat
 ---
 
 ## 🧠 Notes
-- These codes are **personal and single-use** — do not share them.
+- These codes are **personal and single-use**, do not share them.
 - Each code grants access to the lab environment for the duration of the course.
 - Make sure to **save your progress** before ending your lab if that option is available.
 
@@ -58,9 +58,8 @@ If you encounter any issues, contact **support@xtremelabs.io** or use the **Chat
 
 📘 **Support**
 - **Email:** [support@xtremelabs.io](mailto:support@xtremelabs.io)  
-- **Phone:** +1 855-510-0488  
 - **Platform:** [https://labs.xtremelabs.io](https://labs.xtremelabs.io)
 
 ---
 
-© 2025 Azure & Security Bootcamp | XtremeLabs | Microsoft Learning Partner
+© 2025 SPCS Azure & Security Bootcamp | XtremeLabs | Microsoft Partner
